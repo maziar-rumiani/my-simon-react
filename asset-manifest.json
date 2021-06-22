@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-simon-react/static/css/main.b4a51fe4.chunk.css",
+    "main.js": "/my-simon-react/static/js/main.a4108f85.chunk.js",
+    "main.js.map": "/my-simon-react/static/js/main.a4108f85.chunk.js.map",
+    "runtime-main.js": "/my-simon-react/static/js/runtime-main.6df9baa6.js",
+    "runtime-main.js.map": "/my-simon-react/static/js/runtime-main.6df9baa6.js.map",
+    "static/js/2.8f592172.chunk.js": "/my-simon-react/static/js/2.8f592172.chunk.js",
+    "static/js/2.8f592172.chunk.js.map": "/my-simon-react/static/js/2.8f592172.chunk.js.map",
+    "static/js/3.0abe2159.chunk.js": "/my-simon-react/static/js/3.0abe2159.chunk.js",
+    "static/js/3.0abe2159.chunk.js.map": "/my-simon-react/static/js/3.0abe2159.chunk.js.map",
+    "index.html": "/my-simon-react/index.html",
+    "static/css/main.b4a51fe4.chunk.css.map": "/my-simon-react/static/css/main.b4a51fe4.chunk.css.map",
+    "static/js/2.8f592172.chunk.js.LICENSE.txt": "/my-simon-react/static/js/2.8f592172.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6df9baa6.js",
+    "static/js/2.8f592172.chunk.js",
+    "static/css/main.b4a51fe4.chunk.css",
+    "static/js/main.a4108f85.chunk.js"
+  ]
+}
